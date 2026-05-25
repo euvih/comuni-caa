@@ -1,3 +1,3 @@
-# comuniCAA
+# comuniCAA - AD
 
-software de Comunicação Aumentativa e Alternativa
+software de Comunicação Aumentativa e Alternativa 
